@@ -1,0 +1,8 @@
+#path: /content/drive/MyDrive/2026 YOLO 심화과정/04 ComputerVision/03 YOLO Custom/yolo-person-vehicle-dataset/dataset
+path: yolo-person-vehicle-dataset/dataset
+train: images/train
+val: images/val
+
+names:
+  0: person
+  1: vehicle
